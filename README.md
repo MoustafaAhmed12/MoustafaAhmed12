@@ -12,14 +12,15 @@
 </p> 
 
 - 🏢 I'm a Front-End Developer | React JS
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 BSc. in Faculty of Science, Computer Science Department, El-Minya University with degree Very Good, And Graduation Project with degree (Excellent)
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/moustafa-ahmed-04b887229/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/moustafa-ahmed-04b887229/" target="_blank"><img src="https://img.shields.io/badge/-Moustafa%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
